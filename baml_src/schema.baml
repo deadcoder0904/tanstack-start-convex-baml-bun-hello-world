@@ -1,0 +1,3 @@
+class RandomNumber {
+  number int
+}
